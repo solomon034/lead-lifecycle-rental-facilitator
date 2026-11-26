@@ -1,0 +1,14 @@
+listing_id,title,monthly_rent,bedrooms,available_on,features
+HOME-01,Demo Larkglass Studio,1075,0,2030-05-08,laundry
+HOME-02,Demo Bramblewake Flat,1325,1,2030-05-14,laundry|outdoor_space
+HOME-03,Demo Alderfold Corner Flat,1500,2,2030-05-12,bike_storage|laundry
+HOME-04,Demo Fernweft Terrace,1450,2,,outdoor_space
+HOME-05,Demo Cloudmere Courtyard,1600,2,2030-05-15,outdoor_space|laundry
+HOME-06,Demo Cloverglass Loft,1790,2,2030-05-23,bike_storage|laundry
+HOME-07,Demo Juniperfold Cottage,1925,3,2030-06-05,outdoor_space|laundry
+HOME-08,Demo Siltwing Flat,1230,1,2030-05-09,bike_storage
+HOME-09,Demo Reedweave Duplex,2125,3,2030-06-01,bike_storage|outdoor_space|laundry
+HOME-10,Demo Rainbell Studio,990,0,,
+HOME-11,Demo Pebbleloom Flat,1390,1,2030-05-26,laundry
+HOME-12,Demo Copperfern Walk-Up,1550,2,2030-06-12,bike_storage
+HOME-13,Demo Mossweft Bungalow,1690,2,,outdoor_space|bike_storage
